@@ -12,6 +12,7 @@ public class ThreadLocalDemo {
 	    public void testMethod1() {
 			invokeBrowser("http://www.linkedin.com");
 		}
+	
 	 
 	    @Test()
 	    public void testMethod2() {
