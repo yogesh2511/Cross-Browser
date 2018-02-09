@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="35439" started-at="2018-02-01T10:26:53Z" finished-at="2018-02-01T10:27:28Z">
+  <suite name="Suite" duration-ms="50152" started-at="2018-02-02T12:07:21Z" finished-at="2018-02-02T12:08:11Z">
     <groups>
     </groups>
-    <test name="Chrome" duration-ms="26351" started-at="2018-02-01T10:26:53Z" finished-at="2018-02-01T10:27:19Z">
+    <test name="Chrome" duration-ms="25950" started-at="2018-02-02T12:07:21Z" finished-at="2018-02-02T12:07:47Z">
       <class name="CrossBrowser.ThreadLocalDemo">
-        <test-method status="PASS" signature="testMethod1()[pri:0, instance:CrossBrowser.ThreadLocalDemo@1e88b3c]" name="testMethod1" duration-ms="5586" started-at="2018-02-01T05:26:53Z" finished-at="2018-02-01T05:26:59Z">
+        <test-method status="PASS" signature="testMethod1()[pri:0, instance:CrossBrowser.ThreadLocalDemo@1e88b3c]" name="testMethod1" duration-ms="13261" started-at="2018-02-02T07:07:21Z" finished-at="2018-02-02T07:07:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod1 -->
-        <test-method status="PASS" signature="testMethod2()[pri:0, instance:CrossBrowser.ThreadLocalDemo@1e88b3c]" name="testMethod2" duration-ms="19062" started-at="2018-02-01T05:27:00Z" finished-at="2018-02-01T05:27:19Z">
+        <test-method status="PASS" signature="testMethod2()[pri:0, instance:CrossBrowser.ThreadLocalDemo@1e88b3c]" name="testMethod2" duration-ms="10512" started-at="2018-02-02T07:07:36Z" finished-at="2018-02-02T07:07:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod2 -->
       </class> <!-- CrossBrowser.ThreadLocalDemo -->
     </test> <!-- Chrome -->
-    <test name="Firefox" duration-ms="35439" started-at="2018-02-01T10:26:53Z" finished-at="2018-02-01T10:27:28Z">
+    <test name="Firefox" duration-ms="50152" started-at="2018-02-02T12:07:21Z" finished-at="2018-02-02T12:08:11Z">
       <class name="CrossBrowser.ThreadLocalDemo">
-        <test-method status="PASS" signature="testMethod1()[pri:0, instance:CrossBrowser.ThreadLocalDemo@2b98378d]" name="testMethod1" duration-ms="8048" started-at="2018-02-01T05:26:53Z" finished-at="2018-02-01T05:27:01Z">
+        <test-method status="PASS" signature="testMethod1()[pri:0, instance:CrossBrowser.ThreadLocalDemo@2b98378d]" name="testMethod1" duration-ms="24595" started-at="2018-02-02T07:07:21Z" finished-at="2018-02-02T07:07:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod1 -->
-        <test-method status="PASS" signature="testMethod2()[pri:0, instance:CrossBrowser.ThreadLocalDemo@2b98378d]" name="testMethod2" duration-ms="8441" started-at="2018-02-01T05:27:11Z" finished-at="2018-02-01T05:27:19Z">
+        <test-method status="PASS" signature="testMethod2()[pri:0, instance:CrossBrowser.ThreadLocalDemo@2b98378d]" name="testMethod2" duration-ms="7070" started-at="2018-02-02T07:07:55Z" finished-at="2018-02-02T07:08:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod2 -->

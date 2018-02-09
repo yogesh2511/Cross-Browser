@@ -1,0 +1,206 @@
+2018-02-09 03:55:07 INFO  TestBase:231 - chrome browser
+2018-02-09 03:55:07 INFO  TestBase:307 - creating object of chromeand URL of: http://demo.sourcepros.com
+2018-02-09 03:55:07 INFO  TestBase:216 - open url succssfully
+2018-02-09 03:55:07 INFO  TestBase:218 - http://demo.sourcepros.com
+2018-02-09 03:55:07 INFO  TestBase:386 - excel path:D:\Java_Project\UIAutomation\resources\excel\TestData.xlsx
+2018-02-09 03:55:08 INFO  VerifiyLoginWithDifferentRecords:55 - **********starting test**********
+2018-02-09 03:55:08 INFO  VerifiyLoginWithDifferentRecords:59 - try to login with username:yogeshsolanki@Rangam.com and passwordRangam@123
+2018-02-09 03:55:08 INFO  LoginPage:49 - [[ChromeDriver: chrome on XP (e80cfd8c5af0861aa580f15504ca38df)] -> xpath: //input[@id='UserName']]
+2018-02-09 03:55:08 INFO  LoginPage:57 - [[ChromeDriver: chrome on XP (e80cfd8c5af0861aa580f15504ca38df)] -> xpath: //input[@id='Password']]
+2018-02-09 03:55:09 INFO  LoginPage:63 - jsb:SignIn button clicked[[ChromeDriver: chrome on XP (e80cfd8c5af0861aa580f15504ca38df)] -> xpath: //input[@id='btnsubmit']]
+2018-02-09 03:55:09 INFO  LoginPage:65 - welcomestring:[[ChromeDriver: chrome on XP (e80cfd8c5af0861aa580f15504ca38df)] -> xpath: //span[starts-with(text(),'Welcome')]]
+2018-02-09 03:55:09 INFO  TestBase:345 - element is present:[[ChromeDriver: chrome on XP (e80cfd8c5af0861aa580f15504ca38df)] -> xpath: //span[starts-with(text(),'Welcome')]]
+2018-02-09 03:55:09 INFO  VerifiyLoginWithDifferentRecords:63 - LoginSuccessStatus:true
+2018-02-09 03:55:09 INFO  LoginPage:97 - Login button display:Proxy element for: DefaultElementLocator 'By.xpath: //form[@id='frmlogin']/div/h1'
+2018-02-09 03:55:21 INFO  TestBase:345 - element is present:[[ChromeDriver: chrome on XP (e80cfd8c5af0861aa580f15504ca38df)] -> xpath: //form[@id='frmlogin']/div/h1]
+2018-02-09 03:55:21 INFO  VerifiyLoginWithDifferentRecords:71 - Login functionality working fine
+2018-02-09 03:55:21 INFO  VerifiyLoginWithDifferentRecords:72 - **********finish test************
+2018-02-09 03:55:22 INFO  VerifiyLoginWithDifferentRecords:55 - **********starting test**********
+2018-02-09 03:55:22 INFO  VerifiyLoginWithDifferentRecords:59 - try to login with username:xyz@rangam.com and passwordwtc@2017
+2018-02-09 03:55:22 INFO  LoginPage:49 - [[ChromeDriver: chrome on XP (e80cfd8c5af0861aa580f15504ca38df)] -> xpath: //input[@id='UserName']]
+2018-02-09 03:55:22 INFO  LoginPage:57 - [[ChromeDriver: chrome on XP (e80cfd8c5af0861aa580f15504ca38df)] -> xpath: //input[@id='Password']]
+2018-02-09 03:55:22 INFO  LoginPage:63 - jsb:SignIn button clicked[[ChromeDriver: chrome on XP (e80cfd8c5af0861aa580f15504ca38df)] -> xpath: //input[@id='btnsubmit']]
+2018-02-09 03:55:22 INFO  LoginPage:65 - welcomestring:Proxy element for: DefaultElementLocator 'By.xpath: //span[starts-with(text(),'Welcome')]'
+2018-02-09 03:55:37 INFO  TestBase:27 - D:\Java_Project\UIAutomation/resources/ScreenShots/FAILURE_verifiyLoginWithDifferentRecords__2018-02-09_03-55-37.png
+2018-02-09 03:55:37 INFO  TestBase:29 - Dest=D:\Java_Project\UIAutomation/resources/ScreenShots/FAILURE_verifiyLoginWithDifferentRecords__2018-02-09_03-55-37.png
+2018-02-09 03:55:37 INFO  TestBase:38 - image path : D:\Java_Project\UIAutomation\resources\ScreenShots\FAILURE_verifiyLoginWithDifferentRecords__2018-02-09_03-55-37.png
+2018-02-09 03:55:37 INFO  TestBase:39 - Take screenshot completed
+2018-02-09 03:55:37 INFO  VerifiyLoginWithDifferentRecords:42 - verifiyLoginWithDifferentRecords method skipped
+2018-02-09 03:55:37 INFO  TestBase:27 - D:\Java_Project\UIAutomation/resources/ScreenShots/SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_03-55-37.png
+2018-02-09 03:55:37 INFO  TestBase:29 - Dest=D:\Java_Project\UIAutomation/resources/ScreenShots/SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_03-55-37.png
+2018-02-09 03:55:37 INFO  TestBase:38 - image path : D:\Java_Project\UIAutomation\resources\ScreenShots\SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_03-55-37.png
+2018-02-09 03:55:37 INFO  TestBase:39 - Take screenshot completed
+2018-02-09 03:55:37 INFO  VerifiyLoginWithDifferentRecords:42 - verifiyLoginWithDifferentRecords method skipped
+2018-02-09 03:55:38 INFO  TestBase:27 - D:\Java_Project\UIAutomation/resources/ScreenShots/SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_03-55-38.png
+2018-02-09 03:55:38 INFO  TestBase:29 - Dest=D:\Java_Project\UIAutomation/resources/ScreenShots/SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_03-55-38.png
+2018-02-09 03:55:38 INFO  TestBase:38 - image path : D:\Java_Project\UIAutomation\resources\ScreenShots\SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_03-55-38.png
+2018-02-09 03:55:38 INFO  TestBase:39 - Take screenshot completed
+2018-02-09 03:55:38 INFO  VerifiyLoginWithDifferentRecords:42 - verifiyLoginWithDifferentRecords method skipped
+2018-02-09 03:55:38 INFO  TestBase:27 - D:\Java_Project\UIAutomation/resources/ScreenShots/SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_03-55-38.png
+2018-02-09 03:55:38 INFO  TestBase:29 - Dest=D:\Java_Project\UIAutomation/resources/ScreenShots/SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_03-55-38.png
+2018-02-09 03:55:38 INFO  TestBase:38 - image path : D:\Java_Project\UIAutomation\resources\ScreenShots\SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_03-55-38.png
+2018-02-09 03:55:38 INFO  TestBase:39 - Take screenshot completed
+2018-02-09 03:55:38 INFO  VerifiyLoginWithDifferentRecords:42 - verifiyLoginWithDifferentRecords method skipped
+2018-02-09 03:55:38 INFO  TestBase:27 - D:\Java_Project\UIAutomation/resources/ScreenShots/SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_03-55-38.png
+2018-02-09 03:55:38 INFO  TestBase:29 - Dest=D:\Java_Project\UIAutomation/resources/ScreenShots/SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_03-55-38.png
+2018-02-09 03:55:38 INFO  TestBase:38 - image path : D:\Java_Project\UIAutomation\resources\ScreenShots\SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_03-55-38.png
+2018-02-09 03:55:38 INFO  TestBase:39 - Take screenshot completed
+2018-02-09 03:55:38 INFO  VerifiyLoginWithDifferentRecords:42 - verifiyLoginWithDifferentRecords method skipped
+2018-02-09 03:55:39 INFO  TestBase:27 - D:\Java_Project\UIAutomation/resources/ScreenShots/SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_03-55-39.png
+2018-02-09 03:55:39 INFO  TestBase:29 - Dest=D:\Java_Project\UIAutomation/resources/ScreenShots/SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_03-55-39.png
+2018-02-09 03:55:39 INFO  TestBase:38 - image path : D:\Java_Project\UIAutomation\resources\ScreenShots\SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_03-55-39.png
+2018-02-09 03:55:39 INFO  TestBase:39 - Take screenshot completed
+2018-02-09 03:55:39 INFO  TestBase:474 - **********Logout SourcePros**********
+2018-02-09 03:55:41 INFO  Listener:134 - mail moniter method called
+2018-02-09 03:55:41 INFO  TestBase:482 - **********AfterSuite Close Browser**********
+2018-02-09 04:00:59 INFO  TestBase:231 - chrome browser
+2018-02-09 04:00:59 INFO  TestBase:307 - creating object of chromeand URL of: http://demo.sourcepros.com
+2018-02-09 04:00:59 INFO  TestBase:216 - open url succssfully
+2018-02-09 04:00:59 INFO  TestBase:218 - http://demo.sourcepros.com
+2018-02-09 04:00:59 INFO  TestBase:386 - excel path:D:\Java_Project\UIAutomation\resources\excel\TestData.xlsx
+2018-02-09 04:01:00 INFO  VerifiyLoginWithDifferentRecords:55 - **********starting test**********
+2018-02-09 04:01:00 INFO  VerifiyLoginWithDifferentRecords:59 - try to login with username:yogeshsolanki@Rangam.com and passwordRangam@123
+2018-02-09 04:01:00 INFO  LoginPage:48 - [[ChromeDriver: chrome on XP (181681f79cd625167d39b007f04bc3dd)] -> xpath: //input[@id='UserName']]
+2018-02-09 04:01:00 INFO  LoginPage:56 - [[ChromeDriver: chrome on XP (181681f79cd625167d39b007f04bc3dd)] -> xpath: //input[@id='Password']]
+2018-02-09 04:01:01 INFO  LoginPage:62 - jsb:SignIn button clicked[[ChromeDriver: chrome on XP (181681f79cd625167d39b007f04bc3dd)] -> xpath: //input[@id='btnsubmit']]
+2018-02-09 04:01:01 INFO  LoginPage:64 - welcomestring:[[ChromeDriver: chrome on XP (181681f79cd625167d39b007f04bc3dd)] -> xpath: //span[starts-with(text(),'Welcome')]]
+2018-02-09 04:01:01 INFO  TestBase:345 - element is present:[[ChromeDriver: chrome on XP (181681f79cd625167d39b007f04bc3dd)] -> xpath: //span[starts-with(text(),'Welcome')]]
+2018-02-09 04:01:01 INFO  VerifiyLoginWithDifferentRecords:63 - LoginSuccessStatus:true
+2018-02-09 04:01:01 INFO  TestBase:474 - **********Logout SourcePros**********
+2018-02-09 04:01:02 INFO  LoginPage:96 - Login button display:[[ChromeDriver: chrome on XP (181681f79cd625167d39b007f04bc3dd)] -> xpath: //form[@id='frmlogin']/div/h1]
+2018-02-09 04:01:02 INFO  TestBase:345 - element is present:[[ChromeDriver: chrome on XP (181681f79cd625167d39b007f04bc3dd)] -> xpath: //form[@id='frmlogin']/div/h1]
+2018-02-09 04:01:02 INFO  VerifiyLoginWithDifferentRecords:71 - Login functionality working fine
+2018-02-09 04:01:02 INFO  VerifiyLoginWithDifferentRecords:72 - **********finish test************
+2018-02-09 04:01:02 INFO  VerifiyLoginWithDifferentRecords:55 - **********starting test**********
+2018-02-09 04:01:02 INFO  VerifiyLoginWithDifferentRecords:59 - try to login with username:xyz@rangam.com and passwordwtc@2017
+2018-02-09 04:01:03 INFO  LoginPage:48 - [[ChromeDriver: chrome on XP (181681f79cd625167d39b007f04bc3dd)] -> xpath: //input[@id='UserName']]
+2018-02-09 04:01:03 INFO  LoginPage:56 - [[ChromeDriver: chrome on XP (181681f79cd625167d39b007f04bc3dd)] -> xpath: //input[@id='Password']]
+2018-02-09 04:01:03 INFO  LoginPage:62 - jsb:SignIn button clicked[[ChromeDriver: chrome on XP (181681f79cd625167d39b007f04bc3dd)] -> xpath: //input[@id='btnsubmit']]
+2018-02-09 04:01:03 INFO  LoginPage:64 - welcomestring:Proxy element for: DefaultElementLocator 'By.xpath: //span[starts-with(text(),'Welcome')]'
+2018-02-09 04:01:17 INFO  VerifiyLoginWithDifferentRecords:42 - verifiyLoginWithDifferentRecords method skipped
+2018-02-09 04:01:17 INFO  VerifiyLoginWithDifferentRecords:42 - verifiyLoginWithDifferentRecords method skipped
+2018-02-09 04:01:17 INFO  VerifiyLoginWithDifferentRecords:42 - verifiyLoginWithDifferentRecords method skipped
+2018-02-09 04:01:17 INFO  VerifiyLoginWithDifferentRecords:42 - verifiyLoginWithDifferentRecords method skipped
+2018-02-09 04:01:17 INFO  VerifiyLoginWithDifferentRecords:42 - verifiyLoginWithDifferentRecords method skipped
+2018-02-09 04:01:17 INFO  TestBase:474 - **********Logout SourcePros**********
+2018-02-09 04:01:17 INFO  TestBase:482 - **********AfterSuite Close Browser**********
+2018-02-09 04:01:40 INFO  TestBase:231 - chrome browser
+2018-02-09 04:01:40 INFO  TestBase:307 - creating object of chromeand URL of: http://demo.sourcepros.com
+2018-02-09 04:01:40 INFO  TestBase:216 - open url succssfully
+2018-02-09 04:01:40 INFO  TestBase:218 - http://demo.sourcepros.com
+2018-02-09 04:01:40 INFO  TestBase:386 - excel path:D:\Java_Project\UIAutomation\resources\excel\TestData.xlsx
+2018-02-09 04:01:41 INFO  DashboardAdminHeaderTest:51 - **********starting test**********
+2018-02-09 04:01:41 INFO  DashboardAdminHeaderTest:55 - try to login with username:shaileshdesai@Rangam.com and passwordrangam@123
+2018-02-09 04:01:41 INFO  LoginPage:48 - [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //input[@id='UserName']]
+2018-02-09 04:01:41 INFO  LoginPage:56 - [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //input[@id='Password']]
+2018-02-09 04:01:48 INFO  LoginPage:62 - jsb:SignIn button clicked[[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //input[@id='btnsubmit']]
+2018-02-09 04:01:48 INFO  LoginPage:64 - welcomestring:[[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //span[starts-with(text(),'Welcome')]]
+2018-02-09 04:01:48 INFO  TestBase:345 - element is present:[[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //span[starts-with(text(),'Welcome')]]
+2018-02-09 04:01:48 INFO  DashboardAdminHeaderTest:59 - LoginSuccessStatus:true
+2018-02-09 04:01:48 INFO  DashboardAdminHeaderTest:61 - Login functionality working fine
+2018-02-09 04:01:48 INFO  DashboardAdminHeaderTest:62 - **********finish test************
+2018-02-09 04:01:48 INFO  ElementLoad:88 - [[[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/a]]
+2018-02-09 04:01:49 INFO  ElementLoad:88 - [[[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a], [[ChromeDriver: chrome on XP (26618de7e4fd4d56e1bbd707443d28cb)] -> xpath: //*[@id="header"]/div/div/ul/li/ul/li/a]]
+2018-02-09 04:01:49 INFO  HomePage:102 - AllHeaderMenuslinks:17
+2018-02-09 04:01:49 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:49 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:49 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:49 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:49 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:49 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:49 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:49 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:49 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:49 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:49 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:50 INFO  HomePage:117 - subElement:
+2018-02-09 04:01:51 INFO  TestBase:474 - **********Logout SourcePros**********
+2018-02-09 04:01:53 INFO  Listener:134 - mail moniter method called
+2018-02-09 04:01:53 INFO  TestBase:482 - **********AfterSuite Close Browser**********
+2018-02-09 04:02:07 INFO  TestBase:231 - chrome browser
+2018-02-09 04:02:07 INFO  TestBase:307 - creating object of chromeand URL of: http://demo.sourcepros.com
+2018-02-09 04:02:07 INFO  TestBase:216 - open url succssfully
+2018-02-09 04:02:07 INFO  TestBase:218 - http://demo.sourcepros.com
+2018-02-09 04:02:07 INFO  TestBase:386 - excel path:D:\Java_Project\UIAutomation\resources\excel\TestData.xlsx
+2018-02-09 04:02:08 INFO  VerifiyLoginWithDifferentRecords:55 - **********starting test**********
+2018-02-09 04:02:08 INFO  VerifiyLoginWithDifferentRecords:59 - try to login with username:yogeshsolanki@Rangam.com and passwordRangam@123
+2018-02-09 04:02:09 INFO  LoginPage:48 - [[ChromeDriver: chrome on XP (827ad41978f8d1e141ce5e27c17bc8ef)] -> xpath: //input[@id='UserName']]
+2018-02-09 04:02:09 INFO  LoginPage:56 - [[ChromeDriver: chrome on XP (827ad41978f8d1e141ce5e27c17bc8ef)] -> xpath: //input[@id='Password']]
+2018-02-09 04:02:10 INFO  LoginPage:62 - jsb:SignIn button clicked[[ChromeDriver: chrome on XP (827ad41978f8d1e141ce5e27c17bc8ef)] -> xpath: //input[@id='btnsubmit']]
+2018-02-09 04:02:10 INFO  LoginPage:64 - welcomestring:[[ChromeDriver: chrome on XP (827ad41978f8d1e141ce5e27c17bc8ef)] -> xpath: //span[starts-with(text(),'Welcome')]]
+2018-02-09 04:02:10 INFO  TestBase:345 - element is present:[[ChromeDriver: chrome on XP (827ad41978f8d1e141ce5e27c17bc8ef)] -> xpath: //span[starts-with(text(),'Welcome')]]
+2018-02-09 04:02:10 INFO  VerifiyLoginWithDifferentRecords:63 - LoginSuccessStatus:true
+2018-02-09 04:02:10 INFO  TestBase:474 - **********Logout SourcePros**********
+2018-02-09 04:02:11 INFO  LoginPage:96 - Login button display:[[ChromeDriver: chrome on XP (827ad41978f8d1e141ce5e27c17bc8ef)] -> xpath: //form[@id='frmlogin']/div/h1]
+2018-02-09 04:02:11 INFO  TestBase:345 - element is present:[[ChromeDriver: chrome on XP (827ad41978f8d1e141ce5e27c17bc8ef)] -> xpath: //form[@id='frmlogin']/div/h1]
+2018-02-09 04:02:11 INFO  VerifiyLoginWithDifferentRecords:71 - Login functionality working fine
+2018-02-09 04:02:11 INFO  VerifiyLoginWithDifferentRecords:72 - **********finish test************
+2018-02-09 04:02:11 INFO  VerifiyLoginWithDifferentRecords:55 - **********starting test**********
+2018-02-09 04:02:11 INFO  VerifiyLoginWithDifferentRecords:59 - try to login with username:xyz@rangam.com and passwordwtc@2017
+2018-02-09 04:02:12 INFO  LoginPage:48 - [[ChromeDriver: chrome on XP (827ad41978f8d1e141ce5e27c17bc8ef)] -> xpath: //input[@id='UserName']]
+2018-02-09 04:02:12 INFO  LoginPage:56 - [[ChromeDriver: chrome on XP (827ad41978f8d1e141ce5e27c17bc8ef)] -> xpath: //input[@id='Password']]
+2018-02-09 04:02:12 INFO  LoginPage:62 - jsb:SignIn button clicked[[ChromeDriver: chrome on XP (827ad41978f8d1e141ce5e27c17bc8ef)] -> xpath: //input[@id='btnsubmit']]
+2018-02-09 04:02:12 INFO  LoginPage:64 - welcomestring:Proxy element for: DefaultElementLocator 'By.xpath: //span[starts-with(text(),'Welcome')]'
+2018-02-09 04:02:27 INFO  TestBase:27 - D:\Java_Project\UIAutomation/resources/ScreenShots/FAILURE_verifiyLoginWithDifferentRecords__2018-02-09_04-02-27.png
+2018-02-09 04:02:27 INFO  TestBase:29 - Dest=D:\Java_Project\UIAutomation/resources/ScreenShots/FAILURE_verifiyLoginWithDifferentRecords__2018-02-09_04-02-27.png
+2018-02-09 04:02:27 INFO  TestBase:38 - image path : D:\Java_Project\UIAutomation\resources\ScreenShots\FAILURE_verifiyLoginWithDifferentRecords__2018-02-09_04-02-27.png
+2018-02-09 04:02:27 INFO  TestBase:39 - Take screenshot completed
+2018-02-09 04:02:27 INFO  VerifiyLoginWithDifferentRecords:42 - verifiyLoginWithDifferentRecords method skipped
+2018-02-09 04:02:27 INFO  TestBase:27 - D:\Java_Project\UIAutomation/resources/ScreenShots/SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_04-02-27.png
+2018-02-09 04:02:27 INFO  TestBase:29 - Dest=D:\Java_Project\UIAutomation/resources/ScreenShots/SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_04-02-27.png
+2018-02-09 04:02:27 INFO  TestBase:38 - image path : D:\Java_Project\UIAutomation\resources\ScreenShots\SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_04-02-27.png
+2018-02-09 04:02:27 INFO  TestBase:39 - Take screenshot completed
+2018-02-09 04:02:27 INFO  VerifiyLoginWithDifferentRecords:42 - verifiyLoginWithDifferentRecords method skipped
+2018-02-09 04:02:28 INFO  TestBase:27 - D:\Java_Project\UIAutomation/resources/ScreenShots/SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_04-02-28.png
+2018-02-09 04:02:28 INFO  TestBase:29 - Dest=D:\Java_Project\UIAutomation/resources/ScreenShots/SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_04-02-28.png
+2018-02-09 04:02:28 INFO  TestBase:38 - image path : D:\Java_Project\UIAutomation\resources\ScreenShots\SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_04-02-28.png
+2018-02-09 04:02:28 INFO  TestBase:39 - Take screenshot completed
+2018-02-09 04:02:28 INFO  VerifiyLoginWithDifferentRecords:42 - verifiyLoginWithDifferentRecords method skipped
+2018-02-09 04:02:28 INFO  TestBase:27 - D:\Java_Project\UIAutomation/resources/ScreenShots/SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_04-02-28.png
+2018-02-09 04:02:28 INFO  TestBase:29 - Dest=D:\Java_Project\UIAutomation/resources/ScreenShots/SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_04-02-28.png
+2018-02-09 04:02:28 INFO  TestBase:38 - image path : D:\Java_Project\UIAutomation\resources\ScreenShots\SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_04-02-28.png
+2018-02-09 04:02:28 INFO  TestBase:39 - Take screenshot completed
+2018-02-09 04:02:28 INFO  VerifiyLoginWithDifferentRecords:42 - verifiyLoginWithDifferentRecords method skipped
+2018-02-09 04:02:29 INFO  TestBase:27 - D:\Java_Project\UIAutomation/resources/ScreenShots/SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_04-02-29.png
+2018-02-09 04:02:29 INFO  TestBase:29 - Dest=D:\Java_Project\UIAutomation/resources/ScreenShots/SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_04-02-29.png
+2018-02-09 04:02:29 INFO  TestBase:38 - image path : D:\Java_Project\UIAutomation\resources\ScreenShots\SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_04-02-29.png
+2018-02-09 04:02:29 INFO  TestBase:39 - Take screenshot completed
+2018-02-09 04:02:29 INFO  VerifiyLoginWithDifferentRecords:42 - verifiyLoginWithDifferentRecords method skipped
+2018-02-09 04:02:29 INFO  TestBase:27 - D:\Java_Project\UIAutomation/resources/ScreenShots/SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_04-02-29.png
+2018-02-09 04:02:29 INFO  TestBase:29 - Dest=D:\Java_Project\UIAutomation/resources/ScreenShots/SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_04-02-29.png
+2018-02-09 04:02:29 INFO  TestBase:38 - image path : D:\Java_Project\UIAutomation\resources\ScreenShots\SKIPPED_verifiyLoginWithDifferentRecords__2018-02-09_04-02-29.png
+2018-02-09 04:02:29 INFO  TestBase:39 - Take screenshot completed
+2018-02-09 04:02:29 INFO  TestBase:474 - **********Logout SourcePros**********
+2018-02-09 04:02:31 INFO  Listener:134 - mail moniter method called
+2018-02-09 04:02:31 INFO  TestBase:482 - **********AfterSuite Close Browser**********
