@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
-  <listeners>
-    <listener class-name="ParellelBrows.WebDriverListener"/>
-  </listeners>
-  <test name="Chrome(failed)" parallel="tests">
-    <parameter name="browserName" value="chrome"/>
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
     <classes>
-      <class name="CrossBrowser.ThreadLocalDemo">
+      <class name="CrossBrowser.DemoCrossBrowser">
         <methods>
-          <include name="testMethod2"/>
+          <include name="openBrowserIE"/>
         </methods>
-      </class> <!-- CrossBrowser.ThreadLocalDemo -->
+      </class> <!-- CrossBrowser.DemoCrossBrowser -->
     </classes>
-  </test> <!-- Chrome(failed) -->
-  <test name="Firefox(failed)" parallel="tests">
-    <parameter name="browserName" value="firefox"/>
-    <classes>
-      <class name="CrossBrowser.ThreadLocalDemo">
-        <methods>
-          <include name="testMethod2"/>
-        </methods>
-      </class> <!-- CrossBrowser.ThreadLocalDemo -->
-    </classes>
-  </test> <!-- Firefox(failed) -->
-</suite> <!-- Failed suite [Suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -21,7 +21,7 @@ public class LocalDriverFactory {
 	        	driver=new FirefoxDriver(); 
 	        	return driver;
 	        }
-	        if (browserName.toLowerCase().contains("internet")) {
+	        if (browserName.toLowerCase().contains("ie")) {
 	        	System.setProperty("webdriver.ie.driver", "C:\\Users\\yogeshsolanki\\Desktop\\Selenium Test Setup\\drivers\\IEDriverServer.exe");
 	        	driver=new InternetExplorerDriver(); 
 	        	return driver;

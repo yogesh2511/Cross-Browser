@@ -3,12 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="CrossBrowser.ThreadLocalDemo">
+      <class name="CrossBrowser.DemoCrossBrowser">
         <methods>
-          <include name="testMethod2"/>
-          <include name="testMethod1"/>
+          <include name="openBrowserIE"/>
         </methods>
-      </class> <!-- CrossBrowser.ThreadLocalDemo -->
+      </class> <!-- CrossBrowser.DemoCrossBrowser -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
